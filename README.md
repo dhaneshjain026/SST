@@ -9,4 +9,6 @@ DETAILS ABOUT ALL THE FILES
 
 ## Interview csv : similar to the shortlisted students it contains the details of the interview and time slots of the each student
 
-## Colab link : contains the code which was being used ofr the shortlist of the students 
+## Colab link : contains the code which was being used for the shortlist of the students 
+
+## SST2.pdf : contains the final powerbi report pdf which is being generated and can be used foe the visualization
